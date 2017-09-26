@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="k2" method="upgrade">
+	<name>K2 Lity Plugin</name>
+	<author>Lookout</author>
+	<creationDate>Septembre 25th, 2017</creationDate>
+	<copyright>Copyright (c) 2006 - 2014 JoomlaWorks Ltd. All rights reserved.</copyright>
+	<authorEmail>ronny@lookout.be</authorEmail>
+	<authorUrl>www.lookout.be</authorUrl>
+	<version>1.0</version>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<description>Lity is a ultra-lightweight, accessible and responsive lightbox plugin which supports images, iframes and inline content out of the box. Copyright (c) 2015-2017 Jan Sorgalla. Released under the MIT license. More on Lity: https://sorgalla.com/lity/</description>
+	<files>
+		<filename plugin="lity">lity.php</filename>
+	</files>
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+				<field name="btnCLASS" type="text" default="" label="Link css class" description="Your template's link/button css class" />
+			</fieldset>
+		</fields>
+	</config>
+	<fields group="item-video">
+		<field name="youtubeID" type="text" size="80" default="" label="YouTube Video ID" description="" />
+		<field name="youtubeBUTTON" type="text" size="80" default="Watch video" label="Youtube Button Text" description="Example: Watch video" />
+	</fields>
+	<fields group="item-video">
+		<field name="vimeoID" type="text" size="80" default="" label="Vimeo Video ID" description="" />
+		<field name="vimeoBUTTON" type="text" size="80" default="Watch video" label="Vimeo Button Text" description="Example: Watch video" />
+	</fields>
+	<fields group="item-video">
+		<field name="mapsURL" type="text" size="80" default="" label="Google Maps Adress" description="Example: 1600+Amphitheatre+Parkway,+Mountain+View,+CA" />
+		<field name="mapsBUTTON" type="text" size="80" default="View map" label="Google Maps Button Text" description="Example: View map" />
+	</fields>
+</extension>
