@@ -28,9 +28,11 @@ Some helpful links:
 
 If you want to provide feedback for this Joomla plugin, you may use the GitHub issue tracker here: https://github.com/ronnyvanderborght/k2-lity-plugin/issues
 
-To add a Youtube video please use the video ID (to add youtube.com/watch?v=XSGBVzeBUbk use: XSGBVzeBUbk)
-To add a Vimeo  video please use the video ID (to add vimeo.com/1084537 use: 1084537)
-To add a Google Maps please use the synthax:  number+street, +city, + country example: 1600+Amphitheatre+Parkway,+Mountain+View,+CA
+To add a Youtube video please use the video ID (to add youtube.com/watch?v=XSGBVzeBUbk use: XSGBVzeBUbk). 
+
+To add a Vimeo  video please use the video ID (to add vimeo.com/1084537 use: 1084537).
+
+To add a Google Maps please use the synthax:  number+street, +city, + country example: 1600+Amphitheatre+Parkway,+Mountain+View,+CA.
 
 ## DOWNLOAD & INSTALL
 
