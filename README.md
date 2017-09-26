@@ -26,7 +26,7 @@ Some helpful links:
 - Joomla - http://www.joomla.org
 - Lity: - https://sorgalla.com/lity/
 
-If you want to provide feedback for this Joomla plugin, you may use the GitHub issue tracker here: https://github.com/getk2/k2-example-plugin/issues
+If you want to provide feedback for this Joomla plugin, you may use the GitHub issue tracker here: https://github.com/ronnyvanderborght/k2-lity-plugin/issues
 
 ## DOWNLOAD & INSTALL
 
